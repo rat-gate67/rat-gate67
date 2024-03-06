@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rat-gate64
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rat-gate67&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
