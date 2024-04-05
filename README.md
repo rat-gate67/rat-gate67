@@ -2,6 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rat-gate67&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+https://cp-logo.vercel.app/atcoder/rat_gate67
 
 
 <!--
